@@ -1,2 +1,0 @@
-5 is a prime						      |	5  is a prime
-2 is a prime						      |	2  is a prime
