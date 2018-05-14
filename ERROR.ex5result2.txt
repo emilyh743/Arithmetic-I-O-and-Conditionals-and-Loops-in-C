@@ -1,0 +1,2 @@
+5 is a prime						      |	5 is non-prime, divisible by 2
+7 is a prime						      |	7 is non-prime, divisible by 2

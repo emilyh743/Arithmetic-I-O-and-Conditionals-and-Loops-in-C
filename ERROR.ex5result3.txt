@@ -1,0 +1,2 @@
+11 is a prime						      |	11  is a prime
+13 is a prime						      |	13  is a prime
